@@ -3,9 +3,9 @@ redirecter
 
 Tiny Rack app to redirect all paths to a specified domain.
 
-BADGERS!!!!
+BA!!!!
 Yeah
-BADGERS!!!!
+BA!!!
 
 
 BADGERS!!!!
